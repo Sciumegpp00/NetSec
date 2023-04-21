@@ -1,2 +1,3 @@
 -  [unive Lab](https://secgroup.dais.unive.it/teaching/security-1/lab-4-denial-of-service/)
 -  [Cloudflare](https://www.cloudflare.com/it-it/learning/ddos/ping-icmp-flood-ddos-attack/)
+-  [How to protect from Slow http] (https://blog.qualys.com/vulnerabilities-threat-research/2011/11/02/how-to-protect-against-slow-http-attacks)
