@@ -9,3 +9,4 @@
 - [Slow http attack](https://www.netscout.com/what-is-ddos/slow-post-attacks) -> utile magari per il report, spiegate in breve le caratteristiche dell'attacco
 - [Syn Flood 2](https://www.thepythoncode.com/article/syn-flooding-attack-using-scapy-in-python)
 - [Preventing Syn Flood](https://rootinstall.com/tutorial/how-to-prevent-syn-flood-attacks-in-linux/)
+- [Preventing Syn Flood](https://www.imperva.com/learn/ddos/syn-flood/)
