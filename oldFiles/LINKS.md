@@ -10,3 +10,4 @@
 - [Syn Flood 2](https://www.thepythoncode.com/article/syn-flooding-attack-using-scapy-in-python)
 - [Preventing Syn Flood](https://rootinstall.com/tutorial/how-to-prevent-syn-flood-attacks-in-linux/)
 - [Preventing Syn Flood 2](https://www.imperva.com/learn/ddos/syn-flood/)
+- [Slow http attack 2](https://manpages.ubuntu.com/manpages/trusty/man1/slowhttptest.1.html)
