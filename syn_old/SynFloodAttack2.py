@@ -3,7 +3,7 @@ from scapy.all import *
 
 #control arguments
 if len(sys.argv) != 3: # required ip address and port
-	print( ” Few arguments” )
+	print("Few arguments")
 	sys.exit( 1 )
 
 target = sys.argv[1] 
