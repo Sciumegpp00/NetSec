@@ -1,5 +1,5 @@
 - [unive Lab](https://secgroup.dais.unive.it/teaching/security-1/lab-4-denial-of-service/)
-- [Cloudflare](https://www.cloudflare.com/it-it/learning/ddos/ping-icmp-flood-ddos-attack/)
+- [Cloudflare -> ICMP flood](https://www.cloudflare.com/it-it/learning/ddos/ping-icmp-flood-ddos-attack/)
 - [How to protect from Slow http](https://blog.qualys.com/vulnerabilities-threat-research/2011/11/02/how-to-protect-against-slow-http-attacks)
 - [ICMP flooding](https://www.geeksforgeeks.org/icmp-flood-ddos-attack/)
 - [Bandwidth limit](https://vitux.com/how-to-limit-network-bandwidth-in-ubuntu/)
